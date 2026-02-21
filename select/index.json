@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "uni",
+  "base_artist": "梓川",
+  "createdAt": "2026-02-21T07:04:47.874430Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Uni 9MM",
+      "artist": "Lower Than Atlantis",
+      "has_synced": true,
+      "path": "select/01_Uni_9MM_Lower_Than_Atlantis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "uni-birth",
+      "artist": "湊あくあ",
+      "has_synced": true,
+      "path": "select/02_uni-birth_湊あくあ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "uni-birth",
+      "artist": "湊あくあ",
+      "has_synced": false,
+      "path": "select/03_uni-birth_湊あくあ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Uni",
+      "artist": "Korpiklaani",
+      "has_synced": true,
+      "path": "select/04_Uni_Korpiklaani.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "BACK IN UNI",
+      "artist": "Blaqbonez",
+      "has_synced": true,
+      "path": "select/05_BACK_IN_UNI_Blaqbonez.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Uni To Kuri",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/06_Uni_To_Kuri_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "UNI",
+      "artist": "The Rocket Summer",
+      "has_synced": true,
+      "path": "select/07_UNI_The_Rocket_Summer.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Uni",
+      "artist": "Weeekly",
+      "has_synced": true,
+      "path": "select/08_Uni_Weeekly.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Suden Uni",
+      "artist": "Moonsorrow",
+      "has_synced": false,
+      "path": "select/09_Suden_Uni_Moonsorrow.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Back In Uni",
+      "artist": "Blaqbonez",
+      "has_synced": true,
+      "path": "select/10_Back_In_Uni_Blaqbonez.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "BACK IN UNI",
+      "artist": "Blaqbonez; JAE5",
+      "has_synced": true,
+      "path": "select/11_BACK_IN_UNI_Blaqbonez;_JAE5.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Uni - Live 2014",
+      "artist": "Korpiklaani",
+      "has_synced": false,
+      "path": "select/12_Uni_-_Live_2014_Korpiklaani.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Do This (RMX) ft. Uni Skeme, Brown (of Sore Losers)",
+      "artist": "Kendrick Lamar",
+      "has_synced": false,
+      "path": "select/13_I_Do_This_(RMX)_ft._Uni_Skeme,_Brown_(of_Sore_Losers)_Kendrick_Lamar.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "UNI",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/14_UNI_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Uni (Dream)",
+      "artist": "Korpiklaani",
+      "has_synced": true,
+      "path": "select/15_Uni_(Dream)_Korpiklaani.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Uni",
+      "artist": "Sech",
+      "has_synced": true,
+      "path": "select/16_Uni_Sech.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "uni",
+      "artist": "梓川",
+      "has_synced": false,
+      "path": "select/pl_01_uni_梓川.txt"
+    }
+  ]
+}
